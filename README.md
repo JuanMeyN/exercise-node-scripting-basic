@@ -9,10 +9,10 @@ In this exercise, we will be creating a simple Node.js script that will:
 ## Examples
 
 ```bash
-$ node findPokemon charMeleon
-FOUND - id: 005, name: Charmeleon, types: Fire
+$ node findPokemon.js ivySaur
+FOUND - id: 002, name: Ivysaur, types: Grass,Poison
 
-$ node findPokemon PikaChu
+$ node findPokemon.js PikaChu
 NOT FOUND - PikaChu is not found
 ```
 
